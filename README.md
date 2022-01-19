@@ -1,13 +1,14 @@
-EXPENSE TRACKER CREATED USING REACT
+# EXPENSE TRACKER CREATED USING REACT
 
 This is to help me properly understand props, context api and hooks
 
-USAGE
+# USAGE
 
-yarn add
+INSTALL DEPENDECIES
+yarn
 
-# Run on http://localhost:3000
+RUN ON: http://localhost:3000
 yarn start
 
-# Build for production
+BUILD FOR PRODUCTION
 yarn build
